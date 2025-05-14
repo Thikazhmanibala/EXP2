@@ -1,4 +1,4 @@
-###Aim:
+### Aim:
 
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting.
 AI Tools required:
