@@ -9,7 +9,7 @@ AI Tools required:
     Cohere Command R+ -> cohere.com API access
     Meta LLaMA -> Open-source via HuggingFace or local deployment
 
-###Methodology
+# Methodology
 Platforms Tested:
 
 ChatGPT (OpenAI GPT-4), Claude (Anthropic), Bard (Google Gemini), Cohere Command R+, Meta LLaMA (through open-source deployment or third-party interfaces).
@@ -24,15 +24,15 @@ Evaluation Metrics:
     Conciseness (Clear and brief)
     Tone & Coherence (Natural language quality)
 
-###Procedure:
+# Procedure:
 
     Standardized prompts were created across 5 types.
     Each was entered into all 5 AI platforms.
     Responses were collected and evaluated by 3 human reviewers using a 1–5 rating scale for each metric.
     Averages were calculated and compared across models.
 
-###Prompt Types Explained:
-1. Informative Prompt
+# Prompt Types Explained:
+# 1. Informative Prompt
 
 Prompt: “Explain Quantum Computing in simple terms.”
 
@@ -45,7 +45,7 @@ Bard: Balanced technical depth and simplicity.
 Cohere Command: Less engaging, but accurate.
 
 Meta LLaMA: Technical, but less user-friendly.
-###2. Creative Prompt
+# 2. Creative Prompt
 
 Prompt: “Write a poem about time as a river.”
 
@@ -58,7 +58,7 @@ Bard: Elegant but slightly mechanical.
 Cohere Command: Limited creativity.
 
 Meta LLaMA: Abstract, inconsistent rhyme.
-###3. Logical Reasoning Prompt
+# 3. Logical Reasoning Prompt
 
 Prompt: “If all cats are mammals and some mammals are not cats, is it true that all mammals are cats?”
 
@@ -71,7 +71,7 @@ Bard: Accurate but less detailed.
 Cohere Command: Confused logic.
 
 Meta LLaMA: Inconsistent logic.
-###4. Instruction-following Prompt
+# 4. Instruction-following Prompt
 
 Prompt: “List 3 benefits of solar energy in bullet points.”
 
@@ -84,7 +84,7 @@ Bard: Sometimes adds more than 3.
 Cohere Command: Sometimes misses bullet formatting.
 
 Meta LLaMA: May skip structure or add extras.
-###5. Conversational Prompt
+# 5. Conversational Prompt
 
 Prompt: “I’m feeling nervous before an exam. Can you help?”
 
@@ -97,7 +97,7 @@ Bard: Informative but less emotional.
 Cohere Command: Robotic tone.
 
 Meta LLaMA: Not emotionally aligned.
-###7.Code Generation Prompt (New)
+# 7.Code Generation Prompt (New)
 
 Prompt: “Write a Python function to check if a string is a palindrome.”
 
@@ -121,5 +121,6 @@ Bard (Gemini) - offers concise and technically accurate results but lacks consis
 Cohere - Command is good for factual tasks but not ideal for creative or emotional prompts.
 
 Meta LLaMA - is best used by developers with customization needs but not yet consumer-ready in natural conversation.
-###Result :
+
+# Result:
 Thus, the evaluation of prompting tools across leading AI platforms- ChatGpt , Claude , Bard , Cohere Command, and Meta’s based models has been analysed
