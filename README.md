@@ -13,9 +13,10 @@ AI Tools required:
 Platforms Tested:
 
 ChatGPT (OpenAI GPT-4), Claude (Anthropic), Bard (Google Gemini), Cohere Command R+, Meta LLaMA (through open-source deployment or third-party interfaces).
-Prompt Types:
 
+Prompt Types:
 Informative, Creative, Logical Reasoning, Instruction-following, and Conversational.
+
 Evaluation Metrics:
 
     Relevance (How closely the output matches the prompt)
